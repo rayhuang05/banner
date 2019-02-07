@@ -29,8 +29,6 @@ html {
   overflow: hidden;
   max-width: 100%;
   max-height: 24em;
-
-
 }
 
 .banner-content {
@@ -38,5 +36,4 @@ html {
   color: #fff;
   bottom: 0;
   left: 0;
-
 }
